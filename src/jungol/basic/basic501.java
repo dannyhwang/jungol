@@ -3,8 +3,7 @@ package jungol.basic;
 public class basic501 {
 
 	public static void main(String[] args) {
-		System.out.println("Àç¹ÌÀÖ´Â ÇÁ·Î±×·¡¹Ö!");
-
+		System.out.println("ì¬ë¯¸ìˆëŠ” í”„ë¡œê·¸ë˜ë°!");
 	}
 
 }
