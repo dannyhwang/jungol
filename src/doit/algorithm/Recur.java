@@ -2,7 +2,7 @@ package doit.algorithm;
 
 import java.util.Scanner;
 
-public class Recur {
+public class Recur { 
 
 	static void recur(int n) {
 		if(n>0) {
