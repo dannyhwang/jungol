@@ -6,7 +6,7 @@ import java.util.Scanner;
  * P001
  * https://www.acmicpc.net/problem/11720
  * @author Danny
- *
+ * 
  */
 
 public class P001 {
